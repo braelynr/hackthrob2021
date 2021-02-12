@@ -3,5 +3,5 @@
 const random = document.querySelector('.btn');
 
 random.addEventListener('click', function() {
-  document.getElementById("note").value = "Test Change";
+  document.getElementById("note").innerHTML = "Test Change";
 });
