@@ -1,18 +1,21 @@
 .btn {
-  position: absolute;
-  top: 20px;
-  left: 250px;
-  height: 50px;
-  width: 50px;
+  height: 5vw;
+  width: 8vw;
   border: none;
+  border-radius: 8px;
   color: white;
-  background-color: purple;
+  background-color: #ff5f8f;
+  font-size: 1vw;
+  text-align: center;
+
 }
 .btn:focus { outline-style: none; }
 
 .main{
   background-image: url('images/lovehearts.jpg');
   background-repeat: repeat-x;
+  justify-content: center;
+  align-items: center;
   background-size: 100% 100%;
   height: 75%;
   width: 100%
@@ -28,5 +31,6 @@ h1{
 }
 
 html, body{
+  text-align: center;
   height: 100%;
 }
