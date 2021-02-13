@@ -21,13 +21,28 @@
   width: 100%
 }
 
+.form{
+  background-color: #f2d0dc;
+  height: 30%;
+}
+
+#message{
+  width: 60%;
+  height: 100%;
+}
+
 h1{
   color: white;
   font-size: 6vw;
-  text-align: center;
   padding-top: 10%;
   padding-left: 2%;
   padding-right: 2%;
+}
+
+h2{
+  font-size: 2vw;
+  color: #ff5f8f;
+  padding-top: 2%;
 }
 
 html, body{
