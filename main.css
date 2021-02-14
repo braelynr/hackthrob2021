@@ -35,10 +35,10 @@
 
 .about{
   background-color: #ff5f8f;
-  height: 20%;
+  height: 30%;
   width: 100%;
   text-align: left;
-  padding: 10px;
+  padding-top: 10px;
 }
 
 #message{
@@ -58,6 +58,12 @@ h2{
   font-size: 2vw;
   color: #ff5f8f;
   padding-top: 2%;
+}
+
+h3{
+  color: white;
+  padding: 10px;
+  text-align: center;
 }
 
 html, body{
