@@ -26,6 +26,21 @@
   height: 30%;
 }
 
+.tool{
+  background-color: #f2d0dc;
+  height: 20%;
+  width: 100%;
+  text-align: left;
+}
+
+.about{
+  background-color: #ff5f8f;
+  height: 20%;
+  width: 100%;
+  text-align: left;
+  padding: 10px;
+}
+
 #message{
   width: 60%;
   height: 100%;
@@ -48,4 +63,5 @@ h2{
 html, body{
   text-align: center;
   height: 100%;
+  background-color: black;
 }
